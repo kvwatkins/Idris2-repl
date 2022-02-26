@@ -1,0 +1,4 @@
+run = "cd src; idris2"
+
+[nix]
+channel = "stable-21_11"
